@@ -8,7 +8,7 @@
 
 Rario is a browser-based simulator that lets medical students practice pre-marital genetic counseling through a structured patient conversation. The training case centers on Rhesus incompatibility, and the interaction follows the G-I-PD-D partnership model: Greeting, Invite, Diagnosis Delivery, and Discuss & Management.
 
-**[Live demo](#)** *(link to be added once GitHub Pages is active)*
+**[[Live demo](https://calcariorio.github.io/rario-konseling-fk-ubaya/)](#)**
 
 ## How it works
 
