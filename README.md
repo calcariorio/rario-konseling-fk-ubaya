@@ -1,4 +1,4 @@
-# Rario — Pre-Marital Counseling Simulation Software
+# Rario, Pre-Marital Counseling Simulation Software
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-demo-yellow" alt="status">
